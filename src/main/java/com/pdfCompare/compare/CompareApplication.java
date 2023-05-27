@@ -16,7 +16,7 @@ public class CompareApplication {
 			File file2 = new File("src/main/resources/expected.pdf");
 			try {
 				isEquals = new PdfComparator(file1, file2).compare()
-						.writeTo("src/main/resources/Result/"+"CompareResult"+".pdf");
+						.writeTo("src/main/resources/Result/"+"CompareResult");
 
 			} catch (IOException e) {
 				e.printStackTrace();
