@@ -19,3 +19,22 @@ DIFFERNCES in PDF CONTENT
 
 ![differnt](https://github.com/RupamThakre/PdfCompare/assets/55799798/f0fb0749-f7d8-47c7-b337-a53a43414664)
 
+DEMO
+
+EXPECTED FILE
+let us suppose this is the expected pdf file
+
+![expected](https://github.com/RupamThakre/PdfCompare/assets/55799798/2597912c-a0d4-4944-b10b-11245971900d)
+
+ACTUAL FILE
+Let us suppose this is actual pdf file,highlighted the changes in RED
+
+![actual](https://github.com/RupamThakre/PdfCompare/assets/55799798/01d84645-ad70-4a36-ac51-98014386c76f)
+
+BOTH FILE NOT SAME ,so it will genrate a result file
+
+in GREEN-EXPECTED file change
+in RED-ACTUAL file change
+
+![result](https://github.com/RupamThakre/PdfCompare/assets/55799798/f40e0496-9793-428e-b298-7fd08697b658)
+
